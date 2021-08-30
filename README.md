@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm nbswords.
 
 I'll go wherever have the data I'm interested in.
-- Skills :  Python, SQL, Golang, C/C++, and HTML/CSS/Javascript
+- Languages :  Python, SQL, Golang, C/C++, and HTML/CSS/Javascript
 - Libraries : Tensorflow, Pytorch, Scikit-learn, Optuna, eli5, Flask, Streamlit, MLFlow
 - Interesting fields : Recommendation System, Object Detection, Time series analysis, Data Mining and MLOps
 
