@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm nbswords.
 
+[![Github](https://img.shields.io/github/followers/nbswords?label=Follow&style=social)](https://github.com/nbswords)
+
+
 I'll go wherever have the data I'm interested in.
 - Languages :  Python, SQL, Golang, C/C++, and HTML/CSS/Javascript
 - Libraries : Tensorflow, Pytorch, Scikit-learn, Optuna, eli5, Flask, Streamlit, MLFlow
